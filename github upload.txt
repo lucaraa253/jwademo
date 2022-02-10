@@ -1,0 +1,27 @@
+Java and Eclipse concepts
+
+JVM calls main and main runs prgram
+
+Right click project - run as java application
+
+Shortcuts!!!! syso + control and Space ------------- System.out.println
+-------------------
+create folder
+	-right click git bash here
+
+	Creating local repo
+	-git init
+	-git remote add origin https://github.com/lucaraa253/jwademo
+	-git pull origin main
+	-git status 
+	-git add .
+	-git commit - m "Created and modified by Nick"
+	-git push origin master
+
+
+
+
+
+
+
+
